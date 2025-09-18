@@ -7,7 +7,7 @@ Built with **HTML + CSS**, featuring smooth animations and a clean, modern desig
 ---
 
 ## Live Demo
-🔗 **[View Portfolio](https://frankombonye.github.io/portfolio/)**  
+🔗 **[View Portfolio](https://ombonye-code/My-portfolio/)**  
 (*Link will work after enabling GitHub Pages*)
 
 ---
