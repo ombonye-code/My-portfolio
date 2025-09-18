@@ -6,22 +6,22 @@ Built with **HTML + CSS**, featuring smooth animations and a clean, modern desig
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 🔗 **[View Portfolio](https://frankombonye.github.io/portfolio/)**  
 (*Link will work after enabling GitHub Pages*)
 
 ---
 
-## ✨ Features
-- 🎨 **Modern UI** – Sleek design with animations and dark mode.
-- 📱 **Fully Responsive** – Works on desktop, tablet, and mobile.
-- 🖼️ **Profile Section** – Includes profile picture and about me section.
-- 💼 **Projects Showcase** – Highlight of key projects and skills.
-- 📬 **Contact Section** – Easy way for recruiters to reach out.
+##  Features
+-  **Modern UI** – Sleek design with animations and dark mode.
+-  **Fully Responsive** – Works on desktop, tablet, and mobile.
+-  **Profile Section** – Includes profile picture and about me section.
+-  **Projects Showcase** – Highlight of key projects and skills.
+-  **Contact Section** – Easy way for recruiters to reach out.
 
 ---
 
-## 🛠️ Built With
+## Built With
 - **HTML5**
 - **CSS3**
 - **Flexbox & Grid**
@@ -29,7 +29,7 @@ Built with **HTML + CSS**, featuring smooth animations and a clean, modern desig
 
 ---
 
-## 📸 Preview
+## Preview
 ![Portfolio Screenshot](screenshot.png)
 
 ---
