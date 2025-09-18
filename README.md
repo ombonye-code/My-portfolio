@@ -7,5 +7,3 @@ I'd love to help you create a standout profile README, ombonye-code! To make it 
 4. **Short Bio/Tagline:** (a sentence or two about who you are or your mission)
 5. **Social Links:** (LinkedIn, Twitter/X, personal website, etc.—optional)
 6. **Fun Fact or Hobbies:** (anything unique or fun you want to share)
-
-Feel free to answer any or all of these—or add anything extra you want included!
