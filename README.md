@@ -1,9 +1,40 @@
 # My-portfolio
-I'd love to help you create a standout profile README, ombonye-code! To make it truly personalized and impressive, could you share a few details with me?
+# 🌐 Frank Ombonye's Portfolio
 
-1. **Profession/Role:** (e.g., Software Developer, Student, Data Scientist)
-2. **Top Skills/Technologies:** (e.g., React, Python, UI/UX, DevOps)
-3. **Favorite/Featured Projects:** (any GitHub repos or side projects you want to highlight)
-4. **Short Bio/Tagline:** (a sentence or two about who you are or your mission)
-5. **Social Links:** (LinkedIn, Twitter/X, personal website, etc.—optional)
-6. **Fun Fact or Hobbies:** (anything unique or fun you want to share)
+A responsive, dark-mode personal portfolio website showcasing my skills, projects, and contact information.  
+Built with **HTML + CSS**, featuring smooth animations and a clean, modern design.
+
+---
+
+## 🚀 Live Demo
+🔗 **[View Portfolio](https://frankombonye.github.io/portfolio/)**  
+(*Link will work after enabling GitHub Pages*)
+
+---
+
+## ✨ Features
+- 🎨 **Modern UI** – Sleek design with animations and dark mode.
+- 📱 **Fully Responsive** – Works on desktop, tablet, and mobile.
+- 🖼️ **Profile Section** – Includes profile picture and about me section.
+- 💼 **Projects Showcase** – Highlight of key projects and skills.
+- 📬 **Contact Section** – Easy way for recruiters to reach out.
+
+---
+
+## 🛠️ Built With
+- **HTML5**
+- **CSS3**
+- **Flexbox & Grid**
+- **GitHub Pages** for hosting
+
+---
+
+## 📸 Preview
+![Portfolio Screenshot](screenshot.png)
+
+---
+
+## 📝 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/portfolio.git
